@@ -1,4 +1,3 @@
-from collections import OrderedDict
 from formspawner import FormSpawner
 from batchspawner import MoabSpawner
 from wtforms import BooleanField, StringField, validators, IntegerField, SelectField, SelectMultipleField, Form
